@@ -1,0 +1,11 @@
+{
+  "name": "Managed new tab",
+  "version": "0.0.1",
+  "manifest_version":2,
+  "storage": {
+    "managed_schema": "schema.json"
+  },
+  "chrome_url_overrides": {
+    "newtab":"newtab.html"
+  }
+}

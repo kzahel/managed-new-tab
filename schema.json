@@ -1,0 +1,12 @@
+{
+  "type":"object",
+  "properties": {
+    "urls": {
+      "type": "array",
+      "description": "urls to show",
+      "items": {
+        "type":"string"
+      }
+    }
+  }
+}
